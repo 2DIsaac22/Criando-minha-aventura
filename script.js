@@ -1,7 +1,6 @@
 joao pedro martins barbalho
 const avanca = document.querySelectorAll('.btn-proximo');
 
-Joao pedro martins barbalho
 avanca.forEach(button => {
     button.addEventListener('click', function(){
         const atual = document.querySelector('.ativo');
